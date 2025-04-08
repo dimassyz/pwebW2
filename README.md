@@ -1,3 +1,3 @@
-Dimas Setiawan
-Rimbhiatho Aurindra
-M Araka Ridwan Akbar
+- Dimas Setiawan
+- Rimbhiatho Aurindra
+- M Araka Ridwan Akbar
