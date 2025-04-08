@@ -1,0 +1,17 @@
+.canvas {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 85%;
+}
+
+th{
+    background-color: #f0f0f0;
+}
+
+.kelipatan {
+    background-color: rgb(157, 238, 157);
+}
